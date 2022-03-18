@@ -5,4 +5,6 @@ _______________________________________________________
 
 ```npm install``` | ```yarn install```
 
-note that ```"name"``` in ```package.json```
+replace ```"name"``` in ```package.json```
+
+create a ```.env``` file based on ```.env.example```
